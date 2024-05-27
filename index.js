@@ -6,5 +6,6 @@ let b=20;
 let c=a+b;
 console.log(c);
 
-let z=50;
-console.log(z);
+
+let m=50;
+console.log(m);
